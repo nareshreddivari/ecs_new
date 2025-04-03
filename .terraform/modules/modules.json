@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"secrets","Source":"./modules/secrets","Dir":"modules/secrets"},{"Key":"","Source":"","Dir":"."},{"Key":"ecs_cluster","Source":"./modules/ecs-cluster","Dir":"modules/ecs-cluster"},{"Key":"ecs_cluster.capacity_providers","Source":"../capacity-providers","Dir":"modules/capacity-providers"},{"Key":"ecs_cluster.iam","Source":"../iam","Dir":"modules/iam"}]}
